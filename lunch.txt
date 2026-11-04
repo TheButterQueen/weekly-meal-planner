@@ -1,0 +1,108 @@
+Koshary:
+vegetable oil, 20334352, £1.48
+white rice, 21156946, £1.25 
+water, 5010459005025, £1.14
+1 elbow macaroni, 5050854474910, £0.75
+beluga lentils, 5054781340126, £0.49
+salt, 5054070484241, £2.57
+vegetable oil, 20334352, £1.48
+onions, 5054781511908, £0.95
+Garlic, 16742, £0.39
+white vinegar, 5051413143322, £1.42
+4 ripe tomatoes, 5054781579571, £0.99
+Salsa, 5054070231586, £1.32
+ground black pepper, 21035401, £1.09
+ground cumin, 21142833,   £0.95
+cayenne pepper, 21142758, £0.95
+
+Lasagna:
+Meat, 5057172871933, £3.09
+Onion, 5054781511908, £0.95
+Garlic, 16742, £0.39
+Salsa, 5054070231586, £1.32
+Sugar, 5010067301502, £1.09
+Salt, 5054070484241, £2.57 
+Lasagna noodles, 5063089519530, £0.70
+Cheeses, 5000295142893, £2.93
+Egg, 27348048, £2.80
+
+Chicken wraps:
+Caesar salad, 5051413454893, £1.68
+Parmesan cheese, 5063089520024, £3.57
+Garlic powder, 5013531380638, £1.08
+Pepper, 5050854945823, £2.70
+Chicken breast, 5054070266106, £6.82
+Romaine, 27191569, £1.14
+Caesar salad dressing, 8720182302946, £1.70
+Wheat tortillas, 5036034406193, £1.32
+       
+Curry with rice:
+Beef, 5057172703210, £4.56
+Onions, 5054781557166, £0.54
+Carrots, 5054781580058, £0.50
+Potatoes, 5063089866986, £1.00
+Water, 5054781569251, £1.79
+Oil, 20334352, £1.48
+Japanese curry mix, 5051413621516, £1.50
+Rice, 21156977, £1.85
+
+Mushroom chicken piccata:
+Eggs, 5000326012065, £1.82
+Milk, 20332167, £1.65
+Flour, 5012362001217, £0.74
+Salt, 21002885, £0.70
+Paprika, 21142925, £0.95
+Chicken breast, 5063089205792, £2.24
+Butter, 8719200284418, £1.38
+Mushrooms, 5052449479010, £1.00
+Onion, 5050854514906, £0.99
+Chicken broth, 5012427142503, £1.04
+Lemon juice, 5050854189487, £0.80
+Parsley, 5050854513992, £1.00
+
+Chicken curry:
+Vegetable oil, 20334352, £1.48
+Chicken breast, 5063089205792, £2.24
+Onion, 5050854514906, £0.99
+Garlic, 5057172127283, £2.10
+Ginger, 5012818162035, £1.56
+Curry powder, 5052449083125, £1.19
+Coriander, 21142826, £0.95
+Cumin, 21142833, £0.95
+Paprika, 21142925, £0.95
+Cinnamon, 5052449065978, £0.95
+Salt, 21002885, £0.70
+Black pepper, 21035401, £1.09
+Tomato puree, 80042532, £1.50
+Finely chopped tomatoes, 80042556, £1.48
+Chicken stock, 5050854977435, £1.14
+Coconut milk, 5013635330010, £1.57
+Baby spinach, 5054070901229, £1.00
+
+Mediterranean quinoa bowl: 
+Quinoa, 5054070638125, £2.97
+Cucumber, 5050854209970, £0.89
+Cherry tomatoes, 5063089295373, £0.85
+Avocado, 23066755, £1.48
+Pickled red onions, 5063089539477, £1.00
+Parsley leaves, 5054070690451,  £0.52
+Chili flakes, 5050854945946,  £0.95 
+Garlic yogurt sauce, 5000157144362,  £3.38
+Chickpeas, 5054070637128,  £0.55 
+Olive oil, 5057172338696,  £6.14
+Smoked paprika, 5050854946042,  £0.95
+Ground cumin, 21142833,  £0.95
+Salt, 5054070484241, £2.57
+Cayenne pepper, 21142758,  £0.95
+
+Crunchy southwestern chicken wrap:
+Sour cream, 5063089159187, £1.50
+Salsa, 5057172622313, £1.50
+Taco seasoning, 5054781749493,  £0.89
+Large tortilla, 8410076470300,  £1.78
+Lettuce, 23003774,  £0.89
+Tomatoes, 5063089515839,  £0.98
+Avocado, 23066755, £1.48
+Cheddar cheese, 5054070071311,  £2.99
+chicken, 5054070266106,  £6.82
+Doritos, 5000328028750,  £1.84

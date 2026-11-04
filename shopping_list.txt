@@ -1,0 +1,157 @@
+
+Meals for Sunday:
+Lemon yogurt parfait
+ - Almonds, 5057172859665, £1.98
+ - Cottage cheese, 5051413894651, £1.58
+ - Honey, 5011273040698, £1.88
+ - Lemon, 5057172445370, £1.17
+ - Vanilla extract, 5063089169025, £1.47
+ - Greek yogurt, 5052449330625, £1.00
+ - Milk, 20349684, £2.40
+
+
+Meals for Monday:
+Curry with rice
+ - Beef, 5057172703210, £4.56
+ - Onions, 5054781557166, £0.54
+ - Carrots, 5054781580058, £0.50
+ - Potatoes, 5063089866986, £1.00
+ - Water, 5054781569251, £1.79
+ - Oil, 20334352, £1.48
+ - Japanese curry mix, 5051413621516, £1.50
+ - Rice, 21156977, £1.85
+
+Tuna poke bowl
+ - Sushi rice, 5014276030383, £2.20
+ - Water, 5054781569251, £1.79
+ - Rice vinegar, 5054070904633, £2.13
+ - Sugar, 5010067301502, £1.09
+ - Salt, 5054070484241, £2.57
+ - Light soy sauce, 5063089172872, £0.52
+ - Dark soy sauce, 5063089172865, £0.64
+ - Toasted sesame oil, 8850344000417, £2.24
+ - Mirin, 5063089281475, £2.13
+ - Chili, 5052449668780, £0.93
+ - Ginger, 5057172310432, £0.87
+ - Tuna, 5054781874997, £0.72
+ - Carrot, 5054781580058, £0.50
+ - Cucumber, 5050854209970, £0.89
+ - Avocado, 23066755, £1.48
+ - Radish, 5057172688890, £0.56
+ - Edamame, 5054781256694, £3.07
+ - Green onion, 5050854263026, £0.69
+ - Sesame seeds, 5057172551866, £1.68
+
+
+Meals for Tuesday:
+Fruit salad with poppyseed Dressing
+ - White sugar, 5010067374506, £1.45
+ - Lemon juice, 5050854189487, £0.80
+ - Onion, 5054781511908, £0.95
+ - Mustard, 8410066147687, £3.38
+ - Salt, 5054070484241, £2.57
+ - Vegetable oil, 20334352, £1.48
+ - Poppy seeds, 5000225043092, £1.74
+ - Lettuce, 23003774, £0.89
+ - 4 ounces shredded Swiss cheese, 5000295142893, £2.93
+ - Cashews, 5057172859672, £1.98
+ - Dried cranberries, 5057172859801, £1.28
+ - 1 apple, 5054781401285, £1.67
+ - 1 pear, 5057172819201, £1.00
+
+Cinnamon rolls
+ - Milk, 20332167, £1.65
+ - Granulated sugar, 5 010067 301502, £1.09
+ - Yeast, 5 051413 143223, £1.07
+ - Butter, 8 719200 284418, £1.38
+ - Eggs, 5 000326 012065, £1.82
+ - Bread flour, 5 050854 976896, £1.38
+ - Brown sugar, 5 057172 098897, £1.71
+ - Cinnamon, 5 052449 065978, £0.95
+ - Salt, 21002885, £0.70
+ - Cream cheese, 7 622201 693916, £1.30
+ - Vanilla extract, 5 063089 169025, £1.47
+ - Sugar, 5 010067 301502, £1.09
+
+
+Meals for Wednesday:
+Oatmeal
+ - Oats, 5054781624691, £1.19
+ - Milk, 20349684, £2.40
+ - Yogurt, 5057172877317, £1.00
+ - Honey, 5011273040698, £1.88
+ - Cherries, 5051413829608, £2.47
+ - Walnuts, 5054070630129, £1.47
+
+Breakfast bagel
+ - Eggs, 5000326012065, £1.82
+ - Cheddar cheese, 505717240471, £3.24
+ - Tomato, 5063089295397, £0.90
+ - Avocado, 23066755, £1.48
+ - Arugula, 5054781580744, £0.84
+
+Pancake
+ - Flour, 5012362001217, £0.74
+ - Baking powder, 5057172722990, £0.72
+ - Sugar, 5010067301502, £1.09
+ - Salt, 5054070484241, £2.57
+ - Milk, 20349684, £2.40
+ - Butter, 5054781649939, £1.08
+ - Egg, 5000326012065, £1.82
+
+
+Meals for Thursday:
+Omelet
+ - Eggs, 5000326012065, £1.82
+ - Butter, 5054781649939, £1.08
+ - Olive oil, 5000232875235, £2.18
+ - Cheddar cheese, 505717240471, £3.24
+ - Salt, 5054070484241, £2.57
+ - Pepper, 5050854945823, £2.70
+ - Garlic, 5012818160154, £1.56
+ - Onion, 5054781557166, £0.54
+ - Bacon, 5057172008759, £1.89
+
+Omelet
+ - Eggs, 5000326012065, £1.82
+ - Butter, 5054781649939, £1.08
+ - Olive oil, 5000232875235, £2.18
+ - Cheddar cheese, 505717240471, £3.24
+ - Salt, 5054070484241, £2.57
+ - Pepper, 5050854945823, £2.70
+ - Garlic, 5012818160154, £1.56
+ - Onion, 5054781557166, £0.54
+ - Bacon, 5057172008759, £1.89
+
+
+Meals for Friday:
+Oatmeal
+ - Oats, 5054781624691, £1.19
+ - Milk, 20349684, £2.40
+ - Yogurt, 5057172877317, £1.00
+ - Honey, 5011273040698, £1.88
+ - Cherries, 5051413829608, £2.47
+ - Walnuts, 5054070630129, £1.47
+
+
+Meals for Saturday:
+Oatmeal
+ - Oats, 5054781624691, £1.19
+ - Milk, 20349684, £2.40
+ - Yogurt, 5057172877317, £1.00
+ - Honey, 5011273040698, £1.88
+ - Cherries, 5051413829608, £2.47
+ - Walnuts, 5054070630129, £1.47
+
+English breakfast
+ - Bacon, 5057172008759, £1.89
+ - Sausages, 20335045, £1.79
+ - Eggs, 5000326012065, £1.82
+ - Black pudding, 5060051271069, £1.28
+ - Baked beans, 5000232902450, £0.85
+ - Potatoes, 5063089866986, £1.00
+ - Tomatoes, 5063089295397, £0.90
+ - Mushrooms, 23008892, £0.95
+ - Toast, 5054781563112, £0.75
+ - Orange juice, 27563540, £2.00
+

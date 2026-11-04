@@ -1,0 +1,79 @@
+Cheesecake:
+Cream crackers, 5 000168 212517, £2.50
+Butter, 8 719200 284418, £1.38
+Sugar, 5 010067 301502, £1.09
+Salt, 21002885, £0.70
+Cream cheese, 7 622201 693916, £1.30
+Flour, 5 012362 001217, £0.74
+Vanilla extract, 5 063089 169025, £1.47
+Lemon juice, 5 050854 189487, £0.80
+Eggs, 5 000326 012065, £1.82
+Sour cream, 5 063089 159187, £1.50
+
+Chocolate chip cookies:
+Butter, 8 719200 284418, £1.38
+Sugar, 5 010067 301502, £1.09
+Brown sugar, 5 057172 098897, £1.71
+Eggs, 5 000326 012065, £1.82
+Vanilla extract, 5 063089 169025, £1.47
+Baking soda, 5 057172 723003, £0.65
+Salt, 21002885, £0.70
+Flour, 5 012362 001217, £0.74
+Chocolate chips, 5 063089 971833, £1.32
+
+Brownies:
+Sugar, 5 010067 301502, £1.09
+Flour, 5 012362 001217, £0.74
+Butter, 8 719200 284418, £1.38
+Eggs, 5 000326 012065, £1.82
+Cocoa powder, 5 000254 021313, £3.98
+Vanilla extract, 5 063089 169025, £1.47
+Baking powder, 5 057172 722990, £0.72
+Salt, 21002885, £0.70
+Walnut halves, 5 013531 005234, £7.00
+
+Creme brulee:
+Eggs, 5 000326 012065, £1.82
+Sugar, 5 010067 301502, £1.09
+Vanilla extract, 5 063089 169025, £1.47
+Brown sugar, 5 057172 098897, £1.71
+Milk, 20332167, £1.65
+Butter, 8 719200 284418, £1.38
+
+Custard pie:
+Flour, 5 012362 001217, £0.74
+Salt, 21002885, £0.70
+Baking powder, 5 057172 722990, £0.72
+Butter, 8 719200 284418, £1.38
+Cider vinegar, 5 051413 143360, £1.42
+Milk, 20332167, £1.65
+Whipping cream, 5 050854 830785, £1.50
+Eggs, 5 000326 012065, £1.82
+Granulated sugar, 5 010067 301502, £1.09
+Vanilla extract, 5 063089 169025, £1.47
+Ground nutmeg, 21142864, £0.95
+
+Strawberry shortcake:
+Strawberries, 5 054781 916840, £2.82
+Sugar, 5 010067 301502, £1.09
+Flour, 5 012362 001217, £0.74
+Baking powder, 5 057172 722990, £0.72
+Salt, 21002885, £0.70
+Butter, 8 719200 284418, £1.38
+Eggs, 5 000326 012065, £1.82
+Milk, 20332167, £1.65
+Whipping cream, 5 050854 830785, £1.50
+
+Cinnamon rolls:
+Milk, 20332167, £1.65
+Granulated sugar, 5 010067 301502, £1.09
+Yeast, 5 051413 143223, £1.07
+Butter, 8 719200 284418, £1.38
+Eggs, 5 000326 012065, £1.82
+Bread flour, 5 050854 976896, £1.38
+Brown sugar, 5 057172 098897, £1.71
+Cinnamon, 5 052449 065978, £0.95
+Salt, 21002885, £0.70
+Cream cheese, 7 622201 693916, £1.30
+Vanilla extract, 5 063089 169025, £1.47
+Sugar, 5 010067 301502, £1.09
