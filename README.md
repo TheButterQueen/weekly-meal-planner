@@ -98,3 +98,14 @@ The included recipe files contain **42 recipes** across the five categories.
 ## Future Improvements
 
 Possible enhancements include ingredient consolidation, estimated cost totals, dietary filters, and saving or reloading meal plans.
+
+## Application Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main.png)
+
+### Meal Selection
+![Meal Selection](screenshots/selection.png)
+
+### Generated Shopping List
+![Shopping List](screenshots/shoppinglist.png)
