@@ -109,3 +109,14 @@ Possible enhancements include ingredient consolidation, estimated cost totals, d
 
 ### Generated Shopping List
 ![Shopping List](screenshots/shoppinglist.png)
+
+## Contributors
+
+This project was developed as part of a
+university course (CSC102).
+
+Team members:
+- Eman Badawy
+- Mariam Atef
+- Nada Radwan
+- Yara Emara
